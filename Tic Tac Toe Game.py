@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
-
-# Tic-tac-toe game program
 import numpy as np
 
 def printBoard(Board):
@@ -97,10 +90,6 @@ while not Terminate:
     Terminate=CheckToTerminate(Board)
     if Terminate:
         print("The game ended with a TIE")
-
-
-# In[ ]:
-
 
 
 
