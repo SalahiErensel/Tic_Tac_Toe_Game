@@ -1,2 +1,2 @@
 # Tic_Tac_Toe_Game
-Tic Tac Toe Game which I developed in Python
+Tic Tac Toe Game developed in Python
